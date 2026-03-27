@@ -1,16 +1,19 @@
-## Hi there 👋
+# Zakariyae Kerdad
 
-<!--
-**Zakariyae-Kerdad/Zakariyae-Kerdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building **LigeX-AI**.
 
-Here are some ideas to get you started:
+## Current Focus
+**LigeX-AI** is under active private development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-native Life OS focused on:
+- personal growth
+- mental health
+- adaptive learning
+- career intelligence
+
+## Public Project Materials
+- Product overview
+- Screenshots
+- Demo access when available
+
+> Source code and core implementation are private.
