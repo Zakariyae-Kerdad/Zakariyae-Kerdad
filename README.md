@@ -11,6 +11,12 @@ AI-native Life OS focused on:
 - adaptive learning
 - career intelligence
 
+## Development Status
+LigeX-AI has been under active development for more than a year.
+
+A significant portion of the work was done privately before the project was uploaded to GitHub. As a result, the public GitHub activity does not represent the full product development timeline.
+
+
 ## Public Project Access
 - [LigeX-AI Showcase](https://github.com/Zakariyae-Kerdad/ligex-ai-showcase)
 
