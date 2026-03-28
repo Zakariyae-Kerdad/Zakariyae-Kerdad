@@ -11,9 +11,7 @@ AI-native Life OS focused on:
 - adaptive learning
 - career intelligence
 
-## Public Project Materials
-- Product overview
-- Screenshots
-- Demo access when available
+## Public Project Access
+- [LigeX-AI Showcase](https://github.com/Zakariyae-Kerdad/ligex-ai-showcase)
 
 > Source code and core implementation are private.
